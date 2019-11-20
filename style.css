@@ -1,3 +1,22 @@
 body {
-    font-family: Roboto Slab, serif
+    font-family: Roboto Slab, serif;
+    background-color: #f6f6f6;
+}
+
+header {
+font-size: 64px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: 1;
+letter-spacing: normal;
+text-align: right;
+color: #000000;
+}
+
+header {
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-bottom: 50px;
 }
